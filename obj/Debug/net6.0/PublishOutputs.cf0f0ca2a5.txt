@@ -1,0 +1,7 @@
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\demoproj.exe
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\appsettings.json
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\demoproj.dll
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\demoproj.deps.json
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\demoproj.runtimeconfig.json
+C:\Rahul\demoproj\demoproj\bin\Debug\net6.0\publish\demoproj.pdb
